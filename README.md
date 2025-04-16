@@ -128,8 +128,8 @@ The system primarily operates in **Automatic Mode**, where the backend logic (po
 
 ## License
 
-MIT License
+Apache 2.0
 
 ## Contributors
 
-- [Your Name] - Initial work 
+- [Aaryan Kurade] 
